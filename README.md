@@ -1,5 +1,4 @@
-# Local-Repair-
-# Local Repair
+# Local-Repair
 
 **A verified on-demand home and office repair marketplace for urban Bangladesh** (project name in the proposal: *FixIt Local*).
 
